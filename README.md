@@ -15,18 +15,20 @@ By the end of this course, i'm able to:
 
 ## Course Outline
 
-The course will cover the following topics:
+The course covered the following topics:
 
 * Introduction to op amps
 * Basic filter types
-* Frequency response of filters
+* Analog continuous filters
+* MOS-C Filters 
+* GM-C Filters
+* Frequency response of filters and Simulations
 * Design of filters using op amps
-
 
 ## Course Materials
 
 * Textbook: Active Circuits and Filters by Robert L. Boylestad and Louis Nashelsky
-* GitHub Repository: https://github.com/[Your Name]/Active-Circuits-and-Filters
+* GitHub Repository: https://github.com/maiomar88/Active-Circuits-and-Filters
 
 
 ## Instructor Information
@@ -37,7 +39,6 @@ The course will cover the following topics:
 ## Course Resources
 
 * Textbook: Active Circuits and Filters by Robert L. Boylestad and Louis Nashelsky
-* GitHub Repository: https://github.com/[Your Name]/Active-Circuits-and-Filters
 
 I hope this helps!
 
